@@ -8,4 +8,4 @@ tags:
 
 > The monster from *The Ritual*? Smash.
 
-<cite>Me</cite>
+> <cite>Me</cite>
