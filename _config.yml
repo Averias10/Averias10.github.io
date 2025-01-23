@@ -17,9 +17,8 @@ title: Reva's Workshop
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
   Reva's website while she tries to Figure Stuff Out(TM).
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
+github_username: Averias10
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
