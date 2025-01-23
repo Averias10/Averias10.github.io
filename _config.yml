@@ -56,7 +56,7 @@ plugins:
 
 author:
   name   : "Reva Havaligi"
-  avatar : "/assets/images/IMG_9081.webp"
+  avatar : "/assets/images/bio_pic.webp"
   bio    : "I'm just vibing fr."
   links:
     - label: "GitHub"
