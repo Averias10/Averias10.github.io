@@ -2,12 +2,7 @@
 permalink: /
 title: "Home"
 ---
-# This is h1
-This is a paragraph.
-## This is h2
-This is a paragraph 2.
-### This is h3
-This is a paragraph 3.
-#### This is h4
-This is a paragraph 4.
-![Me](/assets/images/IMG_9081.webp)
+# Greetings travelers!
+Welcome to my little neck of the woods! This is where I plan to toss my general thoughts/ideas along with some more fun and technical stuff based purely on what I deem to be interesting or not.
+
+Feel free to explore!
